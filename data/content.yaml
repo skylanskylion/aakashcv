@@ -1,0 +1,172 @@
+BasicInfo:
+  FirstName: Aakash
+  LastName: Singh
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +91 9693921422
+    - Icon: fas fa-envelope
+      Info: 17320@iiitu.ac.in
+    - Icon: fas fa-globe
+      Info: t.me/skylanskylion
+    - Icon: fas fa-map-marker-alt
+      Info: India
+
+Profile: An open minded final year grad from IIIT Una at NIT hamipur looking for new opportunities in professional environment aiming to grow as a person and profesionally while providing value to the organisation.  Always looking for new challenges and things to learn.
+
+Experience:
+  - Employer: Institiute virtual Internship for TRD
+    Place: NIT hamirpur, HP
+    Positions:
+      - Title: Software Intern
+        Date: July 2020 - Sep 2020
+        Details:
+          - Developing admin dashboard in angular 10 and migrating old code base from PHP and anular 2 to angula 8+
+          - Site maintenance and improving loading speeds for the PWA and web app
+          - Load balancer in GCP and documenting work and task putting in 65+ hours every week collborating on asana
+          - Tensorflow and face detection API project
+          - Full stack development and configuring nginx 
+        Badges: ['Angular', 'WebDev', 'nginx', 'Javascript', 'HTML', 'CSS', 'GCP']
+      # - Title: Software Intern
+      #   Date: Mar 2019 - Jan 2020
+      #   Details:
+      #     - Nisl tincidunt eget nullam non nisi est
+      #     - Sed viverra tellus in hac.
+      #     - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #   Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+  # - Employer: Jio
+  #   Place: Una, India
+  #   Positions:
+  #     - Title: Digital champion
+  #       Date: June 2018 - Aug 2018
+  #       Details:
+  #         - Collecting and collaborating data to help SMEs streamline their business models using digital tools
+  #         - Worked on spreadsheets and propritary jio apps to to make sense of data and find common patterns.
+  #       Badges: ['Python', 'MS kaizala', 'MS office', 'Digital Marketting']
+        
+Projects:
+  - Employer: Private VPN #Name of project here
+    # Place: NIT hamirpur, HP
+    Positions:
+      - Name: Software Intern
+        # Date: July 2020 - Sep 2020
+        Details:
+          - A self hosted private vpn using the open vpn protocol.
+          - Most providers charge for their services and are not secure.
+          - This is capable of supporting upto 250 users and is scalable.
+          - Self hosted on a centos server https://github.com/skylanskylion/privatevpn
+        Badges: ['Unix server', 'bash', 'VPN', 'Netwroking']
+
+  - Employer: Skyflix, Netflix UI clone #Name of project here
+    # Place: Netflix UI clone    #short description
+    Positions:
+      - Name: Software Intern
+        # Date: July 2020 - Sep 2020
+        Details:
+          - A netflix UI clone written in plain JS, CSS and HTML
+          - Used bootstrap to make it responsive
+          - Group Project and had a fluttr webapp https://skylanskylion.github.io/skyflix
+        Badges: ['HTML', 'bootstrap', 'JavaScript', 'WebDev']
+
+  - Employer: Aria 2 telegram leech bot + media center #Name of project here
+    # Place: NIT hamirpur, HP
+    Positions:
+      - Name: Software Intern
+        # Date: July 2020 - Sep 2020
+        Details:
+          - Telegram based bot that mirrors torrents from inside telegram client based on transmisson 
+          - Bypasses college proxy and uploads to an unlimted gdrive storage and shares the direct link
+          - Has a webclient running on qbt to directly add and view the files https://isaw.unusual.rocks
+        Badges: ['nginx', 'Webdev', 'python', 'Webservers']
+  - Employer: Mobileshala website #Name of project here
+    # Place: NIT hamirpur, HP
+    Positions:
+      - Name: Software Intern
+        # Date: July 2020 - Sep 2020
+        Details:
+          - Website made for mobileshala internship task
+          - Hosted on github pages https://skylanskylion.github.io/mobileshalatask/
+        Badges: ['ES6', 'HTML5', 'Resposive', 'CSS grid/flexbox']
+
+  - Employer: Ongoing Projects - #Name of project here
+    # Place: Ecommerce JS
+    Positions:
+      - Name: Software Intern
+        # Date: July 2020 - Sep 2020
+        Details:
+          - Ecommerce JS- Ecommerce site using react native and ecommercejs framework
+          - https://nachete.site Art portfolio for a friend
+          - Aakashcv- Single page resume template made using hugo site builder 
+          - bash script to pentest and stressload sites
+        Badges: ['React', 'EcommerceJS', 'WebDev', 'Hugo', 'tailwind', 'Template', 'Web Security']
+  
+        # Badges: ['REST Apis', 'Face detection', ]
+  # - Employer: Institute of Neural Engineering
+  #   Place: Graz, AT
+  #   Positions:
+  #     - Title: Master's Thesis Research Intern
+  #       Date: Oct 2016 - Jun 2017
+  #       Details:
+  #         - Arcu vitae elementum curabitur vitae nunc sed velit
+  #         - Viverra aliquet eget sit amet tellus cras adipiscing
+  #         - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  #         - Nisl tincidunt eget nullam non nisi est
+  #       Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+
+Education:
+  - Course: Bachelors in Technology(B.Tech)
+    Place: Indian Institute of Information Technology Una at NIT hamirpur campus, HP
+    Date: Jun 2017 - July 2021
+    Details: Information technology
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - Angular 10
+      - HTML5
+      - Javascript
+      - CSS
+      - Bootstrap
+      - Databases(basic SQL and MongoDB)
+      - C++
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Angular
+      - Tailwind CSS
+      - Hugo
+      - React(learning)
+  - Family: Developer Tools
+    Items:
+      - Git
+      - VS Code
+      - Postman
+      - Proctor
+      - GCP
+      - Shell/cli
+      - Docker
+  - Family: Misc
+    Items:
+      - Asana
+      - nginx
+
+Languages:
+  - Name: English
+    Level: fluent
+  - Name: Hindi
+    Level: native
+
+Diplomas:
+  - Google Digital Marketting 2020
+
+Postions:
+  -many
+
+Interests:
+  - Audiophile
+  - School deputy headboy and House VC
+  - Proofreading(part of fan release of popular LN)
+  - Reading( novels, LN, Mangas)
+  - Trading( Stocks and keys)
+  - Online competetive gaming(Qualified for OW world cup nationals)
