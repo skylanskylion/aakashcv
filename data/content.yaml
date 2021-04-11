@@ -8,23 +8,25 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: 17320@iiitu.ac.in
     - Icon: fas fa-globe
-      Info: t.me/skylanskylion
+      Info: https://www.linkedin.com/in/skylion/
+    - Icon: fas fa-globe
+      Info: https://github.com/skylanskylion
     - Icon: fas fa-map-marker-alt
       Info: India
 
-Profile: An open minded final year grad from IIIT Una at NIT hamipur looking for new opportunities in professional environment aiming to grow as a person and profesionally while providing value to the organisation.  Always looking for new challenges and things to learn.
+# Profile: An open minded final year grad from IIIT Una at NIT hamipur looking for new opportunities in professional environment aiming to grow as a person and profesionally while providing value to the organisation.  Always looking for new challenges and things to learn.
 
 Experience:
-  - Employer: Institiute virtual Internship for TRD
+  - Employer: Institiute virtual Internship for T.R.D
     Place: NIT hamirpur, HP
     Positions:
       - Title: Software Intern
         Date: July 2020 - Sep 2020
         Details:
-          - Developing admin dashboard in angular 10 and migrating old code base from PHP and anular 2 to angula 8+
+          - Developing admin dashboard in angular 10 and migrating old code base from PHP and angular 2 to angular 8+
           - Site maintenance and improving loading speeds for the PWA and web app
           - Load balancer in GCP and documenting work and task putting in 65+ hours every week collborating on asana
-          - Tensorflow and face detection API project
+          - Tensorflow and face detection API project for expression detection on any device
           - Full stack development and configuring nginx 
         Badges: ['Angular', 'WebDev', 'nginx', 'Javascript', 'HTML', 'CSS', 'GCP']
       # - Title: Software Intern
@@ -53,9 +55,9 @@ Projects:
         Details:
           - A self hosted private vpn using the open vpn protocol.
           - Most providers charge for their services and are not secure.
-          - This is capable of supporting upto 250 users and is scalable.
+          - This is capable of supporting upto 250 users and is scalable and support all platforms.
           - Self hosted on a centos server https://github.com/skylanskylion/privatevpn
-        Badges: ['Unix server', 'bash', 'VPN', 'Netwroking']
+        Badges: ['Unix server', 'bash', 'VPN', 'Networking']
 
   - Employer: Skyflix, Netflix UI clone #Name of project here
     # Place: Netflix UI clone    #short description
@@ -97,7 +99,7 @@ Projects:
           - Ecommerce JS- Ecommerce site using react native and ecommercejs framework
           - https://nachete.site Art portfolio for a friend
           - Aakashcv- Single page resume template made using hugo site builder 
-          - bash script to pentest and stressload sites
+          - bash script for pentesting and stressload sites
         Badges: ['React', 'EcommerceJS', 'WebDev', 'Hugo', 'tailwind', 'Template', 'Web Security']
   
         # Badges: ['REST Apis', 'Face detection', ]
@@ -114,10 +116,10 @@ Projects:
   #       Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
 Education:
-  - Course: Bachelors in Technology(B.Tech)
-    Place: Indian Institute of Information Technology Una at NIT hamirpur campus, HP
+  - Course: Bachelor Of Technology(B.Tech)
+    Place: Indian Institute of Information Technology Una (IIITU), HP
     Date: Jun 2017 - July 2021
-    Details: Information technology
+    Details: Information Technology(IT), 7.2/10 cgpa
 
 Skills:
   - Family: Programming
@@ -125,10 +127,10 @@ Skills:
       - Python
       - Angular 10
       - HTML5
-      - Javascript
-      - CSS
+      - JavaScript
+      - CSS3
       - Bootstrap
-      - Databases(basic SQL and MongoDB)
+      - Databases(basic SQL)
       - C++
       - Bash
   - Family: Frameworks
@@ -160,13 +162,10 @@ Languages:
 Diplomas:
   - Google Digital Marketting 2020
 
-Postions:
-  -many
-
 Interests:
   - Audiophile
-  - School deputy headboy and House VC
-  - Proofreading(part of fan release of popular LN)
-  - Reading( novels, LN, Mangas)
-  - Trading( Stocks and keys)
-  - Online competetive gaming(Qualified for OW world cup nationals)
+  # - School deputy headboy and House VC
+  - Proofreading -Part of fan release of popular LN
+  - Reading - Novels, LN, Mangas
+  - Trading - Stocks and keys
+  - Online competitive gaming - OW world cup nationals
