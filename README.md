@@ -1,7 +1,7 @@
 # Almeida CV Theme
 Theme to build a customizeable printable HTML/CSS CV.
 
-![Screenshot](images/screenshot-full.png)
+![Screenshot](images/screenshot.png)
 
 # Features
  - Online CV with minor responsiveness
@@ -48,6 +48,8 @@ hugo
 ```
 within the root of your project.
 
+# Hosting
+To host the site go to your public folder and change all the links with https://example.com/ to ./ i.e relative links. Now copy all contents of public folder and create a new docs folder in root directory and paste the contents. Now go to github pages and serve the site from master branch and docs/ folder. Your site should be up! https://skylanskylion.github.io/aakashcv/
 
 # Contributing 
 Post bugs and contributions to the issue tracker. Or make a pull request.
