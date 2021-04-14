@@ -17,18 +17,18 @@ BasicInfo:
 # Profile: An open minded final year grad from IIIT Una at NIT hamipur looking for new opportunities in professional environment aiming to grow as a person and profesionally while providing value to the organisation.  Always looking for new challenges and things to learn.
 
 Experience:
-  - Employer: Institiute virtual Internship for T.R.D
+  - Employer: Institiute Virtual Internship for T.R.D
     Place: NIT hamirpur, HP
     Positions:
       - Title: Software Intern
         Date: July 2020 - Sep 2020
         Details:
-          - Developing admin dashboard in angular 10 and migrating old code base from PHP and angular 2 to angular 8+
-          - Site maintenance and improving loading speeds for the PWA and web app
-          - Load balancer in GCP and documenting work and task putting in 65+ hours every week collborating on asana
-          - Tensorflow and face detection API project for expression detection on any device
-          - Full stack development and configuring nginx 
-        Badges: ['Angular', 'WebDev', 'nginx', 'Javascript', 'HTML', 'CSS', 'GCP']
+          - Developing admin dashboard in Angular 10 and migrating old code base from PHP and Angular 2 to Angular 8+.
+          - Site maintenance and improving loading speeds for the PWA and web app.
+          - Load balancer in GCP and documenting work and tasks putting in 65+ hours every week collborating on asana.
+          - Tensorflow and face detection API project for expression detection on any device.
+          - Full stack development and configuring Nginx.
+        Badges: ['Angular', 'WebDev', 'Nginx', 'Javascript', 'HTML', 'CSS', 'GCP']
       # - Title: Software Intern
       #   Date: Mar 2019 - Jan 2020
       #   Details:
@@ -47,17 +47,17 @@ Experience:
   #       Badges: ['Python', 'MS kaizala', 'MS office', 'Digital Marketting']
         
 Projects:
-  - Employer: Private VPN #Name of project here
+  - Employer: Private Vpn #Name of project here
     # Place: NIT hamirpur, HP
     Positions:
       - Name: Software Intern
         # Date: July 2020 - Sep 2020
         Details:
-          - A self hosted private vpn using the open vpn protocol.
+          - A self hosted private Vpn using the Open Vpn protocol.
           - Most providers charge for their services and are not secure.
           - This is capable of supporting upto 250 users and is scalable and support all platforms.
           - Self hosted on a centos server https://github.com/skylanskylion/privatevpn
-        Badges: ['Unix server', 'bash', 'VPN', 'Networking']
+        Badges: ['Unix server', 'Bash', 'VPN', 'Networking']
 
   - Employer: Skyflix, Netflix UI clone #Name of project here
     # Place: Netflix UI clone    #short description
@@ -65,10 +65,10 @@ Projects:
       - Name: Software Intern
         # Date: July 2020 - Sep 2020
         Details:
-          - A netflix UI clone written in plain JS, CSS and HTML
-          - Used bootstrap to make it responsive
+          - A Netflix UI clone written in plain JS, CSS and HTML.
+          - Used Bootstrap to make it responsive.
           - Group Project and had a fluttr webapp https://skylanskylion.github.io/skyflix
-        Badges: ['HTML', 'bootstrap', 'JavaScript', 'WebDev']
+        Badges: ['HTML', 'Bootstrap', 'JavaScript', 'WebDev']
 
   - Employer: Aria 2 telegram leech bot + media center #Name of project here
     # Place: NIT hamirpur, HP
@@ -76,9 +76,9 @@ Projects:
       - Name: Software Intern
         # Date: July 2020 - Sep 2020
         Details:
-          - Telegram based bot that mirrors torrents from inside telegram client based on transmisson 
-          - Bypasses college proxy and uploads to an unlimted gdrive storage and shares the direct link
-          - Has a webclient running on qbt to directly add and view the files https://isaw.unusual.rocks
+          - Telegram based bot that mirrors torrents from inside telegram client based on transmission.
+          - Bypasses college proxy and uploads to an unlimited gdrive storage and shares the direct link.
+          - Has a webclient running on QBT to directly add and view the files https://isaw.unusual.rocks
         Badges: ['nginx', 'Webdev', 'python', 'Webservers']
   - Employer: Mobileshala website #Name of project here
     # Place: NIT hamirpur, HP
@@ -86,7 +86,7 @@ Projects:
       - Name: Software Intern
         # Date: July 2020 - Sep 2020
         Details:
-          - Website made for mobileshala internship task
+          - Website made for mobileshala internship task.
           - Hosted on github pages https://skylanskylion.github.io/mobileshalatask/
         Badges: ['ES6', 'HTML5', 'Resposive', 'CSS grid/flexbox']
 
@@ -96,11 +96,11 @@ Projects:
       - Name: Software Intern
         # Date: July 2020 - Sep 2020
         Details:
-          - Ecommerce JS- Ecommerce site using react native and ecommercejs framework
-          - https://nachete.site Art portfolio for a friend
-          - Aakashcv- Single page resume template made using hugo site builder 
-          - bash script for pentesting and stressload sites
-        Badges: ['React', 'EcommerceJS', 'WebDev', 'Hugo', 'tailwind', 'Template', 'Web Security']
+          - Ecommerce JS- Ecommerce site using React native and ecommercejs framework.
+          - https://nachete.site Art portfolio for a friend.
+          - Aakashcv- Single page resume template made using hugo site builder.
+          - Bash script for pentesting and stressload sites.
+        Badges: ['React', 'EcommerceJS', 'WebDev', 'Hugo', 'Tailwind', 'Template', 'Web Security']
   
         # Badges: ['REST Apis', 'Face detection', ]
   # - Employer: Institute of Neural Engineering
