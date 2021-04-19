@@ -23,11 +23,11 @@ Experience:
       - Title: Software Intern
         Date: July 2020 - Sep 2020
         Details:
-          - Developing admin dashboard in Angular 10 and migrating old code base from PHP and Angular 2 to Angular 8+.
-          - Site maintenance and improving loading speeds for the PWA and web app.
-          - Load balancer in GCP and documenting work and tasks putting in 65+ hours every week collborating on asana.
+          - Developed admin dashboard in Angular 10 and migrated old code base from PHP and Angular 2 to Angular 8+.
+          - Site maintenance and improved loading speeds for the PWA and web app.
+          - Implemented load balancer in GCP and documented work and tasks putting in 65+ hours every week collborating on asana.
           - Tensorflow and face detection API project for expression detection on any device.
-          - Full stack development and configuring Nginx.
+          - Server side deployment and Nginx configuration.
         Badges: ['Angular', 'WebDev', 'Nginx', 'Javascript', 'HTML', 'CSS', 'GCP']
       # - Title: Software Intern
       #   Date: Mar 2019 - Jan 2020
@@ -70,13 +70,13 @@ Projects:
           - Group Project and had a fluttr webapp https://skylanskylion.github.io/skyflix
         Badges: ['HTML', 'Bootstrap', 'JavaScript', 'WebDev']
 
-  - Employer: Aria 2 telegram leech bot + media center #Name of project here
+  - Employer: Aria 2 telegram mirror bot + media center #Name of project here
     # Place: NIT hamirpur, HP
     Positions:
       - Name: Software Intern
         # Date: July 2020 - Sep 2020
         Details:
-          - Telegram based bot that mirrors torrents from inside telegram client based on transmission.
+          - Telegram based bot that mirrors direct links from inside telegram client based on transmission.
           - Bypasses college proxy and uploads to an unlimited gdrive storage and shares the direct link.
           - Has a webclient running on QBT to directly add and view the files https://isaw.unusual.rocks
         Badges: ['nginx', 'Webdev', 'python', 'Webservers']
@@ -147,7 +147,7 @@ Skills:
       - Proctor
       - GCP
       - Shell/cli
-      - Docker
+      
   - Family: Misc
     Items:
       - Asana
